@@ -1,5 +1,5 @@
 - 👋 Ik ben Gijs Kortlever
-- Ik vind Automatisering erg interresant 
+- Ik vind Automatisering erg interessant 
 - Ik zit op de opleiding Technische Informatica op de Hogeschool Rotterdam
 - Hier kan je alle projecten vinden die ik heb gedaan tot nu toe.
 
